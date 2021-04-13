@@ -5,6 +5,10 @@ This project adheres to [CHANGELOG](http://keepachangelog.com).
 
 ## [Unreleased]
 
+## [0.2.0] - 2021-04-13
+- DffrntLab forked original repository
+- thumbor -> dffrntlab_thumbor
+
 ## [0.1.1] - 2916-03-17
 - fixed hard coded label mapping not matching with prefix 'thumbor_'
 
